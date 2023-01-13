@@ -1,0 +1,19 @@
+.heading{
+    text-align: center;
+}
+.CardImg{
+    height: 170px;
+    width: 140px;
+}
+.card{
+    margin-top: 1rem;
+}
+.sort{
+    margin-left: 65rem;
+}
+@media screen and (max-width: 600px) {
+    .card {
+      width: 400px;
+    }
+   
+  }

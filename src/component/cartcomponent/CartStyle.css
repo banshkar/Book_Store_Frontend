@@ -1,0 +1,25 @@
+.image-box{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 40px;
+}
+.container-box{
+    margin: 20px;
+    text-align: start;
+    border: 1px solid rgb(149, 145, 145); 
+    width: 90%;
+    margin-left: 60px;
+    
+}
+.image{
+    height: 200px;
+    width: 250px;
+   
+}
+img{
+    height: 180px;
+    width: 150px;
+    margin: 10px;
+    padding: 10px;
+}
